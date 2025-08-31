@@ -3,7 +3,7 @@
 This project is a **Power BI Dashboard** analyzing Rapido Rides data.
 
 ## 📊 Dashboard Preview
-![Rapido Rides Dashboard](Rapido_Rides_Dashboard.png)
+![Rapido Rides Dashboard](rapido_rides_dashboard.png)
 
 ## 📂 Files Included
 - `Rapido_Rides.pbix` → Power BI report file
